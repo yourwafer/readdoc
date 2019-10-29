@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-29T13:05:03.174Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="IqNKDrOg1dr70LTmStsr" version="12.1.8" type="github" pages="1">
+<mxfile modified="2019-10-29T13:07:45.880Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="ppYzQN-w4FE-798UJKx6" version="12.1.8" type="github" pages="1">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1067" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="910" y="190" width="68" height="78" as="geometry"/>
         </mxCell>
         <mxCell id="6Pj1ZunhHn1MHlgVlxfZ-2" value="日志数据" style="gradientDirection=north;outlineConnect=0;fontColor=#232F3E;gradientColor=#505863;fillColor=#1E262E;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.general;" vertex="1" parent="1">
-          <mxGeometry x="910" y="420" width="70" height="70" as="geometry"/>
+          <mxGeometry x="908" y="350" width="70" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="6Pj1ZunhHn1MHlgVlxfZ-5" value="摘要数据" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.forums;" vertex="1" parent="1">
-          <mxGeometry x="910" y="620" width="78" height="76" as="geometry"/>
+          <mxGeometry x="910" y="505" width="78" height="76" as="geometry"/>
         </mxCell>
         <mxCell id="6Pj1ZunhHn1MHlgVlxfZ-6" value="充值服" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ecs_task;" vertex="1" parent="1">
           <mxGeometry x="1200" y="190" width="59" height="78" as="geometry"/>
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="6Pj1ZunhHn1MHlgVlxfZ-10" value="前端页面" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.registry;" vertex="1" parent="1">
           <mxGeometry x="270" y="420" width="78" height="78" as="geometry"/>
+        </mxCell>
+        <mxCell id="6Pj1ZunhHn1MHlgVlxfZ-11" value="游戏管理-开服等GM功能" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rescue;" vertex="1" parent="1">
+          <mxGeometry x="910" y="660" width="78" height="78" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
